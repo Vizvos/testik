@@ -1,0 +1,2120 @@
+[
+    [
+        "Z pohledu zohlednění vlivu inflace je možné rozlišovat:",
+        [
+            "Hrubou a čistou úrokovou míru",
+            "Hrubou a reálnou úrokovou sazbu",
+            "Nominální a reálnou úrokovou sazbu",
+            "Hrubou a nominální úrokovou sazbu"
+        ],
+        "c"
+    ],
+    [
+        "Bankovní systém, ve kterém působí centrální banka a řada komerčních bank se označuje jako:",
+        [
+            "Dvoustupňový bankovní systém",
+            "Monopolistický bankovní systém",
+            "Komerční bankovní systém",
+            "Vícestupňový bankovní systém"
+        ],
+        "a"
+    ],
+    [
+        "Klasickým cenným papírem obchodovaným na kapitálovém trhu je např.:",
+        [
+            "Směnka se splatností 3 měsíce",
+            "3měsíční státní pokladní poukázka",
+            "Půlroční depozitní certifikát",
+            "10letý státní dluhopis"
+        ],
+        "d"
+    ],
+    [
+        "Klasickým cenným papírem obchodovaným na kapitálovém trhu je např.:",
+        [
+            "Státní pokladní poukázka",
+            "Akcie",
+            "Depozitní certifikát",
+            "Směnka"
+        ],
+        "b"
+    ],
+    [
+        "Na valutovém trhu se obchodují například:",
+        [
+            "Cenné papíry a zůstatky na účtu v cizí měně",
+            "Zlato",
+            "Komodity v cizí měně",
+            "Bankovky a mince v cizí měně"
+        ],
+        "d"
+    ],
+    [
+        "Pro burzu platí:",
+        [
+            "Možnost si vše individuálně domluvit (počet kusů, vypořádání)",
+            "Umožňuje přímé obchodování často pouze pro její členy",
+            "Je typickým OTC trhem",
+            "Neexistence burzovních pravidel"
+        ],
+        "b"
+    ],
+    [
+        "Základním cílem ČNB je:",
+        [
+            "Daňová politika",
+            "Stanovit vždy minimální úrokové sazby",
+            "Sestavení státního rozpočtu",
+            "Cenová a měnová stabilita"
+        ],
+        "d"
+    ],
+    [
+        "Akceptační úvěr je:",
+        [
+            "Dlouhodobým úvěrem",
+            "Akciovým úvěrem",
+            "Peněžním úvěrem",
+            "Závazkovým úvěrem"
+        ],
+        "d"
+    ],
+    [
+        "Odkup krátkodobých pohledávek specializovanou společností se nazývá:",
+        [
+            "Rating",
+            "Factoring",
+            "Finanční leasing",
+            "Akceptační úvěr"
+        ],
+        "b"
+    ],
+    [
+        "Speciálními druhy úsporných vkladů nejsou:",
+        [
+            "Kreditní karty",
+            "Účelová spoření",
+            "Spoření spojená se životním pojištěním",
+            "Majetková spoření"
+        ],
+        "a"
+    ],
+    [
+        "Hlavní regulátorem pojišťovnictví v České republice je:",
+        [
+            "Česká národní banka",
+            "Ministerstvo financí ČR",
+            "Příslušný finanční úřad",
+            "Nadřízená zajišťovna"
+        ],
+        "a"
+    ],
+    [
+        "Fondy, které část získaných příjmů vyplácejí svým podílníkům a část těchto příjmů reinvestují dle své investiční strategie, se označují:",
+        [
+            "Fondy vyvážené",
+            "Fondy důchodové",
+            "Fondy stabilní",
+            "Fondy růstové"
+        ],
+        "a"
+    ],
+    [
+        "Pro konzervativní investory nejsou obecně příliš vhodné:",
+        [
+            "Fondy finančních derivátů",
+            "Zajištěné fondy",
+            "Fondy peněžního trhu",
+            "Garantované fondy"
+        ],
+        "a"
+    ],
+    [
+        "Dobrovolná sdružení institucí finančního trhu stejného zaměření, která vznikla pro zvýšení vyjednávací síly daného odvětví (např. s regulátorem) se označují:",
+        [
+            "Korporace",
+            "Nadace",
+            "Asociace",
+            "Fondy"
+        ],
+        "c"
+    ],
+    [
+        "Reprodukční investice podniků představují:",
+        [
+            "Investice na obnovu budov či strojního zařízení, které jsou opotřebeny",
+            "Investice financované především z externích zdrojů",
+            "Investice na nákup nových (dalších) budov či strojního vybavení",
+            "Investice na rozšíření strojního vybavení, které navyšují produkci společnosti"
+        ],
+        "a"
+    ],
+    [
+        "Kombinace depozitního obchodu a derivátového kontraktu představuje:",
+        [
+            "Strukturovaný vklad",
+            "Strukturovaný dluhopis",
+            "Investiční certifikát",
+            "Strukturovaný derivát"
+        ],
+        "a"
+    ],
+    [
+        "Reverse (reverzní) operace představují:",
+        [
+            "Monetární restrikci",
+            "Monetární expanzi",
+            "Fiskální restrikci",
+            "Fiskální expanzi"
+        ],
+        "b"
+    ],
+    [
+        "Mezi standardní druhy swapových kontraktů nepatří:",
+        [
+            "Collar",
+            "Devizový swap",
+            "Měnový swap",
+            "Úrokový swap"
+        ],
+        "a"
+    ],
+    [
+        "Tok prostředků od investorů k emitentům lze označit jako:",
+        [
+            "Tok investičních nástrojů",
+            "Tok úspor",
+            "Tok výdajů",
+            "Tok příjmů"
+        ],
+        "b"
+    ],
+    [
+        "Za splnění určitých podmínek je možno dosáhnout:",
+        [
+            "Záporného reálného výnosu",
+            "Vždy minimálně reálného výnosu ve výši inflace",
+            "Vždy minimálně nulového reálného výnosu",
+            "Vždy pouze kladného reálného výnosu"
+        ],
+        "a"
+    ],
+    [
+        "Na peněžním trhu se obchodují cenné papíry zpravidla s platností:",
+        [
+            "Delší než 5 let",
+            "Do 1 roku",
+            "Delší než 1 rok",
+            "Delší než 10 let"
+        ],
+        "b"
+    ],
+    [
+        "Turbocertifikáty jsou založeny na odborném principu jako:",
+        [
+            "Swapy",
+            "Forwardy",
+            "Opce",
+            "Futures"
+        ],
+        "d"
+    ],
+    [
+        "Na burze se neobchoduje:",
+        [
+            "Úvěr",
+            "Obligace",
+            "Cizí měna",
+            "Akcie"
+        ],
+        "a"
+    ],
+    [
+        "Technická úroková míra se stanovuje podle:",
+        [
+            "Úrokové sazby 2T REPO",
+            "Výnosu státních dluhopisů (zpravidla 5letých)",
+            "Mezibankovní úrokové sazby 1M PRIBOR",
+            "Průměrné míry zhodnocení vyhlášené ČAP"
+        ],
+        "b"
+    ],
+    [
+        "Výše státní podpory u smluv stavebního spoření uzavřených po roce 2011 činí:",
+        [
+            "Maximálně 4 500 Kč",
+            "Maximálně 3 000 Kč",
+            "Maximálně 2 000 Kč",
+            "Maximálně 1 000 Kč"
+        ],
+        "c"
+    ],
+    [
+        "Nejlepším ratingovým hodnocením je hodnocení:",
+        [
+            "AAA",
+            "AA",
+            "A",
+            "AAAA"
+        ],
+        "a"
+    ],
+    [
+        "Nákup cenného papíru za nižší cenu na jednom trhu a jeho prodej ve stejný okamžik na jiném trhu za vyšší cenu se označuje jako:",
+        [
+            "Zajištění",
+            "Spekulace",
+            "Arbitráž",
+            "Krátký prodej"
+        ],
+        "c"
+    ],
+    [
+        "Mezi finanční investice nepatří:",
+        [
+            "Nákup nemovitostí",
+            "Nákup dluhopisů",
+            "Nákup akcií",
+            "Nákup zlata"
+        ],
+        "a"
+    ],
+    [
+        "Dluhopis bez doby splatnosti se nazývá:",
+        [
+            "Junk bond (neboli prašivé dluhopisy)",
+            "Konvenanta",
+            "Konzola (nebo také perpetual bond)",
+            "Konosament"
+        ],
+        "c"
+    ],
+    [
+        "Vnitřní hodnota dluhopisu:",
+        [
+            "Je rozdílem tržní ceny a nominální hodnoty dluhopisu",
+            "Se vyjadřuje jako současná hodnota dividend a nominální hodnoty dluhopisu",
+            "Je stanovena jako suma současných hodnot a budoucích příjmů plynoucích z dluhopisu",
+            "Neexistuje, existuje pouze u akcií"
+        ],
+        "c"
+    ],
+    [
+        "Investora podílové fondu lze označit jako jeho:",
+        [
+            "Společníka",
+            "Podílníka",
+            "Věřitele",
+            "Akcionáře"
+        ],
+        "b"
+    ],
+    [
+        "Funkce sekundárního trhu spočívá v obchodování již dříve vydaných cenných papírů, čímž je podpořena jejich:",
+        [
+            "Volatilita",
+            "Likvidita",
+            "Rizikovost",
+            "Durance"
+        ],
+        "b"
+    ],
+    [
+        "Mezi cyklické odvětví patří:",
+        [
+            "Potravinářský průmysl",
+            "Farmaceutický průmysl",
+            "Veřejná doprava",
+            "Stavební průmysl"
+        ],
+        "d"
+    ],
+    [
+        "Šeky je možné zařadit mezi cenné papíry:",
+        [
+            "Trhu individuálního a kolektivního investování",
+            "Investičního charakteru",
+            "Trhu se směnkami",
+            "Neinvestičního charakteru"
+        ],
+        "d"
+    ],
+    [
+        "Evropské opce:",
+        [
+            "Jsou účelové opce",
+            "Mohou být uplatněny pouze ve splatnosti",
+            "Mohou být uplatněny kdykoliv v průběhu životnosti",
+            "Se obchodují pouze v Eurozóně"
+        ],
+        "b"
+    ],
+    [
+        "Do drahých kovů (např. zlato, stříbro) je vhodné investovat zejména v období:",
+        [
+            "Ekonomického růstu",
+            "Ekonomické nejistoty",
+            "Vysokých úrokových sazeb",
+            "Nízkých korporátních daní"
+        ],
+        "b"
+    ],
+    [
+        "Osoba, která je v pozici „kupujícího“ CAP:",
+        [
+            "Obdrží od prodávajícího CAP plnění, bude-li referenční úroková sazba nad sjednanou CAP sazbou.",
+            "Obdrží od prodávajícího CAP plnění, bude-li referenční úroková sazba pod sjednanou CAP sazbou.",
+            "Poskytne prodávajícímu CAP plnění, bude-li referenční úroková sazba pod sjednanou CAP sazbou.",
+            "Poskytne prodávajícímu CAP plnění, bude-li referenční úroková sazba nad sjednanou CAP sazbou."
+        ],
+        "a"
+    ],
+    [
+        "Doporučení investiční horizont pro akciové investice je:",
+        [
+            "Maximálně 3 roky",
+            "Minimálně 5-7 let",
+            "Maximálně do 1 roku",
+            "Maximálně do 6 měsíců"
+        ],
+        "b"
+    ],
+    [
+        "Tzv. revolvingový vklad:",
+        [
+            "Je termínový vklad určený pouze pro VIP klienty, úročený speciální revolvingovou sazbou",
+            "Je termínovaný vklad, který je po uplynutí sjednané doby trvání vkladu automaticky prodloužen (obnoven) na další stejné období",
+            "Je termínovaný vklad, který poskytuje ČNB vybraným komerčním bankám za tzv. prime rate sazbu",
+            "Je termínovaný vklad, který poskytuje ČNB komerčním bankám k uložení dočasně volných peněžních prostředků"
+        ],
+        "b"
+    ],
+    [
+        "Při odkupu krátkodobých cenných papírů nebo pohledávek se zpravidla aplikuje:",
+        [
+            "Složené zpětné úročení",
+            "Kombinace jednoduchého a složeného úročení",
+            "Jednoduché předlhůtní úročení",
+            "Jednoduché polhůtní úročení"
+        ],
+        "c"
+    ],
+    [
+        "Mezi výhodu kontraktu forward lze zařadit:",
+        [
+            "Jejich burzovní standardizaci",
+            "Možnost kdykoliv kontrakt jednostranně zrušit",
+            "Obchodování v předem stanovených minimálních objemech (lotech)",
+            "Možnost individuálně dohodnout libovolní podmínky kontraktu"
+        ],
+        "d"
+    ],
+    [
+        "Mezi faktory vymezující podmínky pro finanční podnikání nepatří:",
+        [
+            "Harmonizace regulace finančních trhů",
+            "Diverzifikace finančních aktiv",
+            "Liberalizace finančních toků",
+            "Harmonizace dohledu nad finančními trhy"
+        ],
+        "b"
+    ],
+    [
+        "Teroristické útoky z 11. září, konflikt v Iráku, ropné krize apod. lze zařadit mezi:",
+        [
+            "Riziko událostí",
+            "Riziko právní",
+            "Riziko likvidní",
+            "Riziko operační"
+        ],
+        "a"
+    ],
+    [
+        "Krátkodobé cenné papíry se obchodují na:",
+        [
+            "Peněžním trhu",
+            "Devizovém trhu",
+            "Akciovém trhu",
+            "Kapitálovém trhu"
+        ],
+        "a"
+    ],
+    [
+        "Majitel akcie je ve vztahu k dané akciové společnosti, která akcii emitovala, jejím:",
+        [
+            "Dlužníkem",
+            "Emitentem",
+            "Spolumajitelem",
+            "Věřitelem"
+        ],
+        "c"
+    ],
+    [
+        "Při očekávání hospodářské recese dochází:",
+        [
+            "K poklesu volatility na akciových trzích",
+            "K růstu na akciových trzích",
+            "Ke stagnaci na akciových trzích",
+            "K poklesu na akciových trzích"
+        ],
+        "d"
+    ],
+    [
+        "Krátkodobé cenné papíry se obchodují na:",
+        [
+            "Peněžním trh",
+            "Devizovém trhu",
+            "Akciovém trhu",
+            "Kapitálovém trhu"
+        ],
+        "a"
+    ],
+    [
+        "Majitel akcie je ve vztahu k dané akciové společnosti, která akcii emitovala, jejím:",
+        [
+            "Dlužníkem",
+            "Emitentem",
+            "Spolumajitelem",
+            "Věřitelem"
+        ],
+        "c"
+    ],
+    [
+        "Majitel akcie je ve vztahu k dané akciové společnosti, která akcii emitovala, jejím:",
+        [
+            "Dlužníkem",
+            "Emitentem",
+            "Spolumajitelem",
+            "Věřitelem"
+        ],
+        "c"
+    ],
+    [
+        "Při očekávání hospodářské recese dochází:",
+        [
+            "K poklesu volatility na akciových trzích",
+            "K růstu na akciových trzích",
+            "Ke stagnaci na akciových trzích",
+            "K poklesu na akciových trzích"
+        ],
+        "d"
+    ],
+    [
+        "Majitel dluhopisu je ve vztahu k emitentovi dluhopisu, jeho:",
+        [
+            "Emitentem",
+            "Věřitelem",
+            "Dlužníkem",
+            "Spolumajitelem"
+        ],
+        "b"
+    ],
+    [
+        "Kupónové sazby u diskontovaných dluhopisů jsou:",
+        [
+            "Vždy nulové",
+            "Zpravidla v řádu desítek procent",
+            "Zpravidla v řádu promile",
+            "Zpravidla v řádu procent"
+        ],
+        "a"
+    ],
+    [
+        "Vnitřní hodnota je:",
+        [
+            "Subjektivně stanovená maximální cena, kterou je investor ochoten zaplatit za akcii",
+            "Vždy nižší než tržní cena",
+            "Vždy rovna tržní ceně",
+            "Vždy vyšší než tržní cena"
+        ],
+        "a"
+    ],
+    [
+        "Při zvýšení rizikových přirážek vnitřní hodnota cenného papíru (za jinak stejných podmínek):",
+        [
+            "Roste",
+            "Klesá",
+            "Záleží vždy na době splatnosti",
+            "Nezmění se"
+        ],
+        "b"
+    ],
+    [
+        "Swapy jsou:",
+        [
+            "Smluvní promptní kontrakty",
+            "Standardizované (burzovní) termínové kontrakty",
+            "Smluvní termínové kontrakty",
+            "Standardizované (burzovní) promptní kontrakty"
+        ],
+        "c"
+    ],
+    [
+        "S různými typy opcí je možné obchodovat:",
+        [
+            "Pouze u obchodníků s cennými papíry",
+            "Pouze na OTC trzích",
+            "Na burzách i OTC trzích",
+            "Pouze na burzách"
+        ],
+        "c"
+    ],
+    [
+        "Kupující COLLAR je v pozici:",
+        [
+            "Kupujícího Cap a prodávajícího Floor",
+            "Kupujícího Cap a kupujícího Floor",
+            "Prodávajícího Cap a prodávajícího Floor",
+            "Prodávajícího Cap a kupujícího Floor"
+        ],
+        "a"
+    ],
+    [
+        "Futures neplatí:",
+        [
+            "Burzovní obchodování v předem stanovených minimálních objemech (lotech)",
+            "Možnost individuálně dohodnout libovolné podmínky kontraktu",
+            "Jejich burzovní standardizace",
+            "Možnost kdykoliv kontrakt jednostranně zrušit (tzv. uzavřít pozici)"
+        ],
+        "b"
+    ],
+    [
+        "Investiční certifikát je možno koupit:",
+        [
+            "Pouze na burze",
+            "Pouze na mimoburzovním trhu",
+            "Na burze i na mimoburzovním trhu",
+            "Pouze u ČNB"
+        ],
+        "c"
+    ],
+    [
+        "Turbocertifikáty jsou založeny na obdobném principu jako:",
+        [
+            "Futures",
+            "Opce",
+            "Forwardy",
+            "Swapy"
+        ],
+        "b"
+    ],
+    [
+        "Mezi faktory vymezující podmínky pro finanční podnikání nepatří:",
+        [
+            "Harmonizace dohledu nad finančními trhy",
+            "Diverzifikace finančních aktiv",
+            "Harmonizace regulace finančních trhů",
+            "Liberalizace finančních toků"
+        ],
+        "b"
+    ],
+    [
+        "Liberalizace finančních toků nevychází z předpokladu, že volný trh je schopen:",
+        [
+            "Správně oceňovat investiční instrumenty",
+            "Efektivně poskytovat finanční služby",
+            "Alokovat disponibilní zdroje",
+            "Diversifikovat riziko mezi subjekty na volném trhu"
+        ],
+        "a"
+    ],
+    [
+        "Mezi běžné výnosy z finančních investic nepatří:",
+        [
+            "Dividendy",
+            "Rozdíl prodejní a nákupní ceny akcie",
+            "Úrok",
+            "Kupónové platby"
+        ],
+        "b"
+    ],
+    [
+        "Mezi hlavní odvětví v pojišťovnictví patří pojištění:",
+        [
+            "Osob a majetku",
+            "Primární a sekundární",
+            "Krátkodobé a dlouhodobé",
+            "Životní a neživotní"
+        ],
+        "d"
+    ],
+    [
+        "Vklady veřejnosti v družstevních záložkách (kampeličkách) jsou pojištěny:",
+        [
+            "Do limitu 200 000 EUR",
+            "Stejně jako v případě komerčních bank",
+            "Nejsou pojištěny",
+            "Do limitu 50 000 EUR"
+        ],
+        "b"
+    ],
+    [
+        "Pro úrokové sazby z vkladů standardně platí:",
+        [
+            "Jsou nižší než úrokové sazby z úvěrů",
+            "Jsou vždy osvobozeny od daně z příjmů",
+            "Jsou vyšší než úrokové sazby z úvěrů",
+            "Musí být dle zákona vyšší než inflace"
+        ],
+        "a"
+    ],
+    [
+        "Klasickým cenným papírem obchodovatelným na kapitálovém trhu je např.:",
+        [
+            "Směnka se splatností 3 měsíce",
+            "Půlroční depozitní certifikát",
+            "3měsíční státní pokladniční poukázka",
+            "10letý státní dluhopis"
+        ],
+        "d"
+    ],
+    [
+        "OTC trhem není:",
+        [
+            "Swapový dům",
+            "Burza cenných papírů",
+            "Banka",
+            "Obchodník s cennými papíry"
+        ],
+        "b"
+    ],
+    [
+        "Devizové trhy jsou:",
+        [
+            "S úvěry a půjčkami",
+            "S cizími měnami a od nich odvozenými deriváty",
+            "S deriváty",
+            "S akciemi"
+        ],
+        "b"
+    ],
+    [
+        "Investiční strategie fondu je popsána:",
+        [
+            "V zakladatelské smlouvě",
+            "V jeho statutu",
+            "V obchodních podmínkách",
+            "V obchodním rejstříku"
+        ],
+        "b"
+    ],
+    [
+        "Fondy, které vyplácejí získané příjmy svým podílníkům, se označují:",
+        [
+            "Fondy vyvážené",
+            "Fondy důchodové",
+            "Fondy růstové"
+        ],
+        "b"
+    ],
+    [
+        "Který motiv držby peněz je dle Keynese závislý na úrokové sazbě",
+        [
+            "Spekulativní motiv",
+            "Bezpečnostní motiv",
+            "Transakční motiv",
+            "Investiční motiv"
+        ],
+        "a"
+    ],
+    [
+        "Doporučení investiční horizont pro akciové investice je:",
+        [
+            "Maximálně 3 roky",
+            "Minimálně 5-7 let",
+            "Maximálně do 1 roku",
+            "Maximálně do 6 měsíců"
+        ],
+        "b"
+    ],
+    [
+        "Průměrná úroková sazba, za kterou si obchodní banky navzájem poskytují úvěry na českém mezibankovním trhu, nese označení:",
+        [
+            "RESERVE REPO",
+            "PRIBOR",
+            "PRIBID",
+            "REPO"
+        ],
+        "b"
+    ],
+    [
+        "Výhodou kontokorentního úvěru je:",
+        [
+            "Sleva z daní",
+            "Dlouhá doba splatnosti",
+            "Nízká úroková sazba",
+            "Rychlá dostupnost finančních prostředků"
+        ],
+        "d"
+    ],
+    [
+        "V České republice jsou vklady klientů obchodních bank:",
+        [
+            "Pojištěny na 100%, maximální do výše ekvivalentu 100 000 EUR",
+            "Pojištěny na 100%",
+            "Pojištěny na 100%, maximální do výše ekvivalentu 200 000 EUR",
+            "Pojištěny na 0%"
+        ],
+        "a"
+    ],
+    [
+        "Při emisi akciového titulu na primárním trhu cenných papírů získává peněžní prostředky:",
+        [
+            "Investor",
+            "Emitent",
+            "Regulátor",
+            "Depozitář"
+        ],
+        "b"
+    ],
+    [
+        "Bankovní systém, ve kterém působí centrální banka a řada komerčních bank se označuje jako:",
+        [
+            "Komerční bankovní systém",
+            "Dvoustupňový bankovní systém",
+            "Vícestupňovaný regulovaný systém",
+            "Monopolistický bankovní systém"
+        ],
+        "b"
+    ],
+    [
+        "Sedlina je:",
+        [
+            "Základní úroková sazba banky",
+            "Jiné označení pro minimální výši úvěru",
+            "Minimální počet klientů banky pro udělení licence",
+            "Dlouhodobý stabilní zůstatek na účtech klientů"
+        ],
+        "d"
+    ],
+    [
+        "Základním cílem ČNB je:",
+        [
+            "Daňová politika",
+            "Cenová a měnová stabilita",
+            "Sestavení státního rozpočtu",
+            "Stanovení vždy minimální úrokové sazby"
+        ],
+        "b"
+    ],
+    [
+        "Mimoburzovním trhem je například:",
+        [
+            "NASDAQ",
+            "LSE",
+            "Burza cenných papírů Praha",
+            "NYSE"
+        ],
+        "a"
+    ],
+    [
+        "Úročení neúčelového úvěru bývá oproti úročení účelového úvěru (za jinak stejných podmínek):",
+        [
+            "Nižší",
+            "Vyšší",
+            "Stejné",
+            "Záleží na době splatnosti"
+        ],
+        "b"
+    ],
+    [
+        "Spread představuje:",
+        [
+            "Rizikovost cenného papíru",
+            "Rozdíl mezi nákupní a prodejní cenou (kurzem)",
+            "Hodnotu majetku podílového fondu připadajícího na jeden podílový list",
+            "Úrok u směnek"
+        ],
+        "b"
+    ],
+    [
+        "Šeky je možné zařadit mezi cenné papíry:",
+        [
+            "Trhu kolektivního investování",
+            "Investičního charakteru",
+            "Platebního charakteru",
+            "Dlouhodobé"
+        ],
+        "c"
+    ],
+    [
+        "Klasickým cenným papírem obchodovaným na kapitálovém trhu je:",
+        [
+            "Státní pokladniční poukázka",
+            "Akcie",
+            "Depozitní certifikát",
+            "Směnka"
+        ],
+        "b"
+    ],
+    [
+        "Z pohledu zohlednění vlivu zdanění úrokových příjmů je možné rozlišovat:",
+        [
+            "Hrubou a nominální úrok. sazbu",
+            "Čistou a reálnou úrok. sazbu",
+            "Hrubou a čistou úrok. sazbu",
+            "Hrubou a reálnou úrok. sazbu"
+        ],
+        "c"
+    ],
+    [
+        "Na valutovém trhu se obchodují například:",
+        [
+            "Zlato",
+            "Bankovky a mince v cizí měně",
+            "Cenné papíry a zůstatky na účtu v cizí měně",
+            "Komodity v cizí měně"
+        ],
+        "b"
+    ],[
+        "Pro konzervativní investory nejsou obecně příliš vhodné:",
+        [
+            "Fondy peněžního trhu",
+            "Garantované fondy",
+            "Zajištěné fondy",
+            "Fondy finančních derivátů"
+        ],
+        "d"
+    ],
+    [
+        "Fondy, které část získaných příjmů vyplácejí svým podílníkům a část těchto příjmů reinvestují dle své investiční strategie, se označují:",
+        [
+            "Fondy růstové",
+            "Fondy stabilní",
+            "Fondy vyvážené",
+            "Fondy důchodové"
+        ],
+        "c"
+    ],
+    [
+        "Asociace jednotlivých typů finančních institucí (bank, pojišťoven atd.) vznikají zejména z důvodu:",
+        [
+            "Vyšší vyjednávací síla, např. s regulátorem",
+            "Pořádání společenských a vzdělávacích akcí pro veřejnost",
+            "Vytváření zisku",
+            "Společného marketingu"
+        ],
+        "a"
+    ],
+    [
+        "Možnost ukládat resp. investovat finanční prostředky prostřednictvím investic a produktů na finančním trhu je:",
+        [
+            "Platební funkce finančního systému",
+            "Depozitní funkce finančního systému",
+            "Likviditní funkce finančního systému",
+            "Kreditní funkce finančního systému"
+        ],
+        "b"
+    ],
+    [
+        "Reprodukční investice podniků představují:",
+        [
+            "Investice na obnovu budov či strojního zařízení, které jsou opotřebeny",
+            "Investice na rozšíření strojního vybavení, které navyšují produkci společnosti",
+            "Investice financované především z externích zdrojů",
+            "Investice na nákup nových budov či strojního vybavení"
+        ],
+        "a"
+    ],
+    [
+        "Pro financování (krytí) krátkodobých časových nesouladů mezi příjmy a výdaji státního rozpočtu stát obvykle používá:",
+        [
+            "Státní obligace",
+            "Kontokorentní úvěr",
+            "Státní akcie",
+            "Státní pokladniční poukázky"
+        ],
+        "d"
+    ],
+    [
+        "Dividenda:",
+        [
+            "Je úrok plynoucí z akcie",
+            "Se vyskytuje pouze u zahraničních akcií",
+            "Její výše musí být vždy předem známá alespoň 5 let",
+            "Je podíl na zisku akciové společnosti"
+        ],
+        "d"
+    ],
+    [
+        "Zástupcem neutrálního odvětví z hlediska citlivosti odvětví na hospodářský cyklus je zejména společnost:",
+        [
+            "Apple",
+            "IBM",
+            "Volkswagen",
+            "McDonalds"
+        ],
+        "d"
+    ],
+    [
+        "Vliv na výši vnitřní hodnoty akcie nemá:",
+        [
+            "Očekávaná výše dividendy",
+            "Předpokládaná doba držby",
+            "Očekávaná doba výnosnosti",
+            "Kuponová sazba akcie"
+        ],
+        "d"
+    ],
+    [
+        "Na jednom trhu v jednom okamžiku může existovat:",
+        [
+            "Teoreticky tolik vnitřních hodnot, kolik je účastníků trhu",
+            "Pouze jedna vnitřní hodnota",
+            "Pouze jedna vnitřní hodnota, totožná s tržní cenou",
+            "Maximálně dvě vnitřní hodnoty – jedna kupní, jedna prodejní"
+        ],
+        "a"
+    ],
+    [
+        "Majitel (kupující) prodejní opce je v pozici:",
+        [
+            "Short put",
+            "Long put",
+            "Long call",
+            "Short call"
+        ],
+        "b"
+    ],
+    [
+        "Osoba, která je v pozici kupující FLOOR:",
+        [
+            "Chrání své pohledávky proti růstu úrokových sazeb",
+            "Chrání své pohledávky proti poklesu úrokových sazeb",
+            "Chrání své závazky proti poklesu úrokových sazeb",
+            "Chrání své závazky proti růstu úrokových sazeb"
+        ],
+        "b"
+    ],
+    [
+        "Pro kontrakty typu forward platí:",
+        [
+            "Obchodují se na burzách",
+            "Můžeme některé typy forwardů uzavřít např. v bance",
+            "Obchodují se v lotech",
+            "Lze kdykoliv uzavřít svoji pozici a tím zrušit povinnost vypořádat kontrakt"
+        ],
+        "b"
+    ],
+    [
+        "Pro strukturované vklady v bankách platí:",
+        [
+            "Nejsou v ČR zatím distribuovány",
+            "Výše jejich úročení je odvislá od různého podkladového aktiva",
+            "Nejsou pojištěny jako standardní bankovní vklady",
+            "Jsou obvykle bez splatnosti"
+        ],
+        "b"
+    ],
+    [
+        "Tvorba nových druhů cenných papírů či nahrazování standardních úvěrových produktů emisemi cenných papírů se označuje:",
+        [
+            "Spekulace",
+            "Institucionalizace",
+            "Sekuritizace",
+            "Globalizace"
+        ],
+        "c"
+    ],
+    [
+        "Tzv. velké finanční instituce realizují většinu finančních operací:",
+        [
+            "Na sekundárních a terciálních trzích",
+            "Na primárních i sekundárních trzích",
+            "Pouze na sekundárních trzích",
+            "Pouze na primárních trzích"
+        ],
+        "b"
+    ],
+    [
+        "Proces integrace finančních trhů lze charakterizovat jako stále těsnější:",
+        [
+            "Cenové propojování jejich jednotlivých segmentů, které nejsou ve vzájemné rovnováze",
+            "Objemové propojování jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze",
+            "Objemové propojování jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze",
+            "Cenové propojení jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze"
+        ],
+        "b"
+    ],
+    [
+        "Cenný papír, který neexistuje ve fyzické podobě, se označuje:",
+        [
+            "Elektronovaný",
+            "Zaknihovaný",
+            "Listinný",
+            "Virtuální"
+        ],
+        "b"
+    ],
+    [
+        "Mezi finanční investice nepatří:",
+        [
+            "Poskytování úvěru",
+            "Peněžní vklady",
+            "Nákup akcií a obligací",
+            "Nákup uměleckých sbírek"
+        ],
+        "d"
+    ],
+    [
+        "Leasing, u kterého se předmět nájmu po skončení nájemní smlouvy nestává majetkem nájemce, se nazývá:",
+        [
+            "Evropský leasing",
+            "Americký leasing",
+            "Finanční leasing",
+            "Operativní leasing"
+        ],
+        "d"
+    ],
+    [
+        "Pro vklady na běžných účtech je charakteristické:",
+        [
+            "Vysoká úroková sazba, vysoká likvidita",
+            "Nízká úroková sazba, vysoká likvidita",
+            "Nízká úroková sazba, nízká likvidita",
+            "Vysoká úroková sazba, nízká likvidita"
+        ],
+        "b"
+    ],
+    [
+        "Tzv. revolvingový vklad:",
+        [
+            "Je termínový vklad určený pouze pro VIP klienty, úročený speciální revolvingovou sazbou",
+            "Je termínovaný vklad, který je po uplynutí sjednané doby trvání vkladu automaticky prodloužen (obnoven) na další stejné období",
+            "Je termínovaný vklad, který poskytuje ČNB vybraným komerčním bankám za tzv. prime rate sazbu",
+            "Je termínovaný vklad, který poskytuje ČNB komerčním bankám k uložení dočasně volných peněžních prostředků"
+        ],
+        "b"
+    ],
+    [
+        "Při odkupu krátkodobých cenných papírů nebo pohledávek se zpravidla aplikuje:",
+        [
+            "Složené zpětné úročení",
+            "Kombinace jednoduchého a složeného úročení",
+            "Jednoduché předlhůtní úročení",
+            "Jednoduché polhůtní úročení"
+        ],
+        "d"
+    ],
+    [
+        "Mezi výhodu kontraktu forward lze zařadit:",
+        [
+            "Jejich burzovní standardizaci",
+            "Možnost kdykoliv kontrakt jednostranně zrušit",
+            "Obchodování v předem stanovených minimálních objemech (lotech)",
+            "Možnost individuálně dohodnout libovolní podmínky kontraktu"
+        ],
+        "d"
+    ],
+    [
+        "Mezi faktory vymezující podmínky pro finanční podnikání nepatří:",
+        [
+            "Harmonizace regulace finančních trhů",
+            "Diverzifikace finančních aktiv",
+            "Liberalizace finančních toků",
+            "Harmonizace dohledu nad finančními trhy"
+        ],
+        "b"
+    ],
+    [
+        "Teroristické útoky z 11. září, konflikt v Iráku, ropné krize apod. lze zařadit mezi:",
+        [
+            "Riziko událostí",
+            "Riziko právní",
+            "Riziko likvidní",
+            "Riziko operační"
+        ],
+        "a"
+    ],
+    [
+        "Krátkodobé cenné papíry se obchodují na:",
+        [
+            "Peněžním trhu",
+            "Devizovém trhu",
+            "Akciovém trhu",
+            "Kapitálovém trhu"
+        ],
+        "a"
+    ],
+    [
+        "Majitel akcie je ve vztahu k dané akciové společnosti, která akcii emitovala, jejím:",
+        [
+            "Dlužníkem",
+            "Emitentem",
+            "Spolumajitelem",
+            "Věřitelem"
+        ],
+        "c"
+    ],
+    [
+        "Při očekávání hospodářské recese dochází:",
+        [
+            "K poklesu volatility na akciových trzích",
+            "K růstu na akciových trzích",
+            "Ke stagnaci na akciových trzích",
+            "K poklesu na akciových trzích"
+        ],
+        "d"
+    ],
+    [
+        "Majitel dluhopisu je ve vztahu k emitentovi dluhopisu, jeho:",
+        [
+            "Emitentem",
+            "Věřitelem",
+            "Dlužníkem",
+            "Spolumajitelem"
+        ],
+        "b"
+    ],
+    [
+        "Kupónové sazby u diskontovaných dluhopisů jsou:",
+        [
+            "Vždy nulové",
+            "Zpravidla v řádu desítek procent",
+            "Zpravidla v řádu promile",
+            "Zpravidla v řádu procent"
+        ],
+        "a"
+    ],
+    [
+        "Vnitřní hodnota je:",
+        [
+            "Subjektivně stanovená maximální cena, kterou je investor ochoten zaplatit za akcii",
+            "Vždy nižší než tržní cena",
+            "Vždy rovna tržní ceně",
+            "Vždy vyšší než tržní cena"
+        ],
+        "a"
+    ],
+    [
+        "Při zvýšení rizikových přirážek vnitřní hodnota cenného papíru (za jinak stejných podmínek):",
+        [
+            "Roste",
+            "Klesá",
+            "Záleží vždy na době splatnosti",
+            "Nezmění se"
+        ],
+        "b"
+    ],
+    [
+        "Swapy jsou:",
+        [
+            "Smluvní promptní kontrakty",
+            "Standardizované (burzovní) termínové kontrakty",
+            "Smluvní termínové kontrakty",
+            "Standardizované (burzovní) promptní kontrakty"
+        ],
+        "c"
+    ],
+    [
+        "S různými typy opcí je možné obchodovat:",
+        [
+            "Pouze u obchodníků s cennými papíry",
+            "Pouze na OTC trzích",
+            "Na burzách i OTC trzích",
+            "Pouze na burzách"
+        ],
+        "c"
+    ],
+    [
+        "Kupující COLLAR je v pozici:",
+        [
+            "Kupujícího Cap a prodávajícího Floor",
+            "Kupujícího Cap a kupujícího Floor",
+            "Prodávajícího Cap a prodávajícího Floor",
+            "Prodávajícího Cap a kupujícího Floor"
+        ],
+        "a"
+    ],
+    [
+        "Futures neplatí:",
+        [
+            "Burzovní obchodování v předem stanovených minimálních objemech (lotech)",
+            "Možnost individuálně dohodnout libovolné podmínky kontraktu",
+            "Jejich burzovní standardizace",
+            "Možnost kdykoliv kontrakt jednostranně zrušit (tzv. uzavřít pozici)"
+        ],
+        "b"
+    ],
+    [
+        "Investiční certifikát je možno koupit:",
+        [
+            "Pouze na burze",
+            "Pouze na mimoburzovním trhu",
+            "Na burze i na mimoburzovním trhu",
+            "Pouze u ČNB"
+        ],
+        "c"
+    ],
+    [
+        "Turbocertifikáty jsou založeny na obdobném principu jako:",
+        [
+            "Futures",
+            "Opce",
+            "Forwardy",
+            "Swapy"
+        ],
+        "b"
+    ],
+    [
+        "Mezi faktory vymezující podmínky pro finanční podnikání nepatří:",
+        [
+            "Harmonizace dohledu nad finančními trhy",
+            "Diverzifikace finančních aktiv",
+            "Harmonizace regulace finančních trhů",
+            "Liberalizace finančních toků"
+        ],
+        "b"
+    ],
+    [
+        "Liberalizace finančních toků nevychází z předpokladu, že volný trh je schopen:",
+        [
+            "Správně oceňovat investiční instrumenty",
+            "Efektivně poskytovat finanční služby",
+            "Alokovat disponibilní zdroje",
+            "Diversifikovat riziko mezi subjekty na volném trhu"
+        ],
+        "a"
+    ],
+    [
+        "Mezi běžné výnosy z finančních investic nepatří:",
+        [
+            "Dividendy",
+            "Rozdíl prodejní a nákupní ceny akcie",
+            "Úrok",
+            "Kupónové platby"
+        ],
+        "b"
+    ],
+    [
+        "Mezi hlavní odvětví v pojišťovnictví patří pojištění:",
+        [
+            "Osob a majetku",
+            "Primární a sekundární",
+            "Krátkodobé a dlouhodobé",
+            "Životní a neživotní"
+        ],
+        "d"
+    ],
+    [
+        "Vklady veřejnosti v družstevních záložkách (kampeličkách) jsou pojištěny:",
+        [
+            "Do limitu 200 000 EUR",
+            "Stejně jako v případě komerčních bank",
+            "Nejsou pojištěny",
+            "Do limitu 50 000 EUR"
+        ],
+        "b"
+    ],
+    [
+        "Pro úrokové sazby z vkladů standardně platí:",
+        [
+            "Jsou nižší než úrokové sazby z úvěrů",
+            "Jsou vždy osvobozeny od daně z příjmů",
+            "Jsou vyšší než úrokové sazby z úvěrů",
+            "Musí být dle zákona vyšší než inflace"
+        ],
+        "a"
+    ],
+    [
+        "Klasickým cenným papírem obchodovatelným na kapitálovém trhu je např.:",
+        [
+            "Směnka se splatností 3 měsíce",
+            "Půlroční depozitní certifikát",
+            "3měsíční státní pokladniční poukázka",
+            "10letý státní dluhopis"
+        ],
+        "d"
+    ],
+    [
+        "OTC trhem není:",
+        [
+            "Swapový dům",
+            "Burza cenných papírů",
+            "Banka",
+            "Obchodník s cennými papíry"
+        ],
+        "b"
+    ],
+    [
+        "Devizové trhy jsou:",
+        [
+            "S úvěry a půjčkami",
+            "S cizími měnami a od nich odvozenými deriváty",
+            "S deriváty",
+            "S akciemi"
+        ],
+        "b"
+    ],
+    [
+        "Investiční strategie fondu je popsána:",
+        [
+            "V zakladatelské smlouvě",
+            "V jeho statutu",
+            "V obchodních podmínkách",
+            "V obchodním rejstříku"
+        ],
+        "b"
+    ],
+    [
+        "Fondy, které vyplácejí získané příjmy svým podílníkům, se označují:",
+        [
+            "Fondy vyvážené",
+            "Fondy důchodové",
+            "Fondy růstové",
+            "Fondy stabilní"
+        ],
+        "b"
+    ],
+    [
+        "Který motiv držby peněz je dle Keynese závislý na úrokové sazbě:",
+        [
+            "Spekulativní motiv",
+            "Bezpečnostní motiv",
+            "Transakční motiv",
+            "Investiční motiv"
+        ],
+        "a"
+    ],
+    [
+        "Průměrná úroková sazba, za kterou si obchodní banky navzájem poskytují úvěry na českém mezibankovním trhu, nese označení:",
+        [
+            "RESERVE REPO",
+            "PRIBOR",
+            "PRIBID",
+            "REPO"
+        ],
+        "b"
+    ],
+    [
+        "Výhodou kontokorentního úvěru je:",
+        [
+            "Sleva z daní",
+            "Dlouhá doba splatnosti",
+            "Nízká úroková sazba",
+            "Rychlá dostupnost finančních prostředků"
+        ],
+        "d"
+    ],
+    [
+        "V České republice jsou vklady klientů obchodních bank:",
+        [
+            "Pojištěny na 100%, maximální do výše ekvivalentu 100 000 EUR",
+            "Pojištěny na 100%",
+            "Pojištěny na 100%, maximální do výše ekvivalentu 200 000 EUR",
+            "Pojištěny na 0%"
+        ],
+        "a"
+    ],
+    [
+        "Při emisi akciového titulu na primárním trhu cenných papírů získává peněžní prostředky:",
+        [
+            "Investor",
+            "Emitent",
+            "Regulátor",
+            "Depozitář"
+        ],
+        "b"
+    ],
+    [
+        "Bankovní systém, ve kterém působí centrální banka a řada komerčních bank se označuje jako:",
+        [
+            "Komerční bankovní systém",
+            "Dvoustupňový bankovní systém",
+            "Vícestupňovaný regulovaný systém",
+            "Monopolistický bankovní systém"
+        ],
+        "b"
+    ],
+    [
+        "Sedlina je:",
+        [
+            "Základní úroková sazba banky",
+            "Jiné označení pro minimální výši úvěru",
+            "Minimální počet klientů banky pro udělení licence",
+            "Dlouhodobý stabilní zůstatek na účtech klientů"
+        ],
+        "d"
+    ],
+    [
+        "Základním cílem ČNB je:",
+        [
+            "Daňová politika",
+            "Cenová a měnová stabilita",
+            "Sestavení státního rozpočtu",
+            "Stanovení vždy minimální úrokové sazby"
+        ],
+        "b"
+    ],
+    [
+        "Mimoburzovním trhem je například:",
+        [
+            "NASDAQ",
+            "LSE",
+            "Burza cenných papírů Praha",
+            "NYSE"
+        ],
+        "a"
+    ],
+    [
+        "Úročení neúčelového úvěru bývá oproti úročení účelového úvěru (za jinak stejných podmínek):",
+        [
+            "Nižší",
+            "Vyšší",
+            "Stejné",
+            "Záleží na době splatnosti"
+        ],
+        "b"
+    ],
+    [
+        "Spread představuje:",
+        [
+            "Rizikovost cenného papíru",
+            "Rozdíl mezi nákupní a prodejní cenou (kurzem)",
+            "Hodnotu majetku podílového fondu připadajícího na jeden podílový list",
+            "Úrok u směnek"
+        ],
+        "b"
+    ],
+    [
+        "Šeky je možné zařadit mezi cenné papíry:",
+        [
+            "Trhu kolektivního investování",
+            "Investičního charakteru",
+            "Platebního charakteru",
+            "Dlouhodobé"
+        ],
+        "c"
+    ],
+    [
+        "Klasickým cenným papírem obchodovaným na kapitálovém trhu je:",
+        [
+            "Státní pokladniční poukázka",
+            "Akcie",
+            "Depozitní certifikát",
+            "Směnka"
+        ],
+        "b"
+    ],
+    [
+        "Z pohledu zohlednění vlivu zdanění úrokových příjmů je možné rozlišovat:",
+        [
+            "Hrubou a nominální úrok. Sazbu",
+            "Čistou a reálnou úrok. Sazbu",
+            "Hrubou a čistou úrok. sazbu",
+            "Hrubou a reálnou úrok. Sazbu"
+        ],
+        "c"
+    ],
+    [
+        "Na valutovém trhu se obchodují například:",
+        [
+            "Zlato",
+            "Bankovky a mince v cizí měně",
+            "Cenné papíry a zůstatky na účtu v cizí měně",
+            "Komodity v cizí měně"
+        ],
+        "b"
+    ],
+    [
+        "Pro konzervativní investory nejsou obecně příliš vhodné:",
+        [
+            "Fondy peněžního trhu",
+            "Garantované fondy",
+            "Zajištěné fondy",
+            "Fondy finančních derivátů"
+        ],
+        "d"
+    ],
+    [
+        "Fondy, které část získaných příjmů vyplácejí svým podílníkům a část těchto příjmů reinvestují dle své investiční strategie se označují:",
+        [
+            "Fondy růstové",
+            "Fondy stabilní",
+            "fondy vyvážené",
+            "Fondy důchodové"
+        ],
+        "c"
+    ],
+    [
+        "Asociace jednotlivých typů finančních institucí (bank, pojišťoven, atd.) vznikají zejména z důvodu:",
+        [
+            "Vyšší vyjednávací síla, např. s regulátorem",
+            "Pořádání společenských a vzdělávacích akcí pro veřejnost",
+            "Vytváření zisku",
+            "Společného marketingu"
+        ],
+        "a"
+    ],
+    [
+        "Možnost ukládat resp. Investovat, finanční prostředky prostřednictvím investic a produktů na finančním trhu je:",
+        [
+            "Platební funkce fin. Systému",
+            "Depozitní funkce fin systému",
+            "Likviditní funkce fin. Systému",
+            "Kreditní funkce fin. Systému"
+        ],
+        "b"
+    ],
+    [
+        "Reprodukční investice podniků představují:",
+        [
+            "Investice na obnovu budov či strojního zařízení, které jsou opotřebeny",
+            "Investice na rozšíření strojního vybavení, které navyšují produkci společnosti",
+            "Investice financované především z externích zdrojů",
+            "Investice na nákup nových budov či strojního vybavení"
+        ],
+        "a"
+    ],
+    [
+        "Pro financování (krytí) krátkodobých časových nesouladů mezi příjmy a výdaji státního rozpočtu stát obvykle používá:",
+        [
+            "Státní obligace",
+            "Kontokorentní úvěr",
+            "Státní akcie",
+            "Státní pokladniční poukázky"
+        ],
+        "d"
+    ],
+    [
+        "Dividenda:",
+        [
+            "Je úrok plynoucí z akcie",
+            "Se vyskytuje pouze u zahraničních akcií",
+            "Její výše musí být vždy předem známá alespoň 5 let",
+            "Je podíl na zisku akciové společnosti"
+        ],
+        "d"
+    ],
+    [
+        "Zástupcem neutrálního odvětví z hlediska citlivosti odvětví na hospodářský cyklus je zejména společnost:",
+        [
+            "Apple",
+            "IBM",
+            "Volkswagen",
+            "McDonalds"
+        ],
+        "d"
+    ],
+    [
+        "Vliv na výši vnitřní hodnoty akcie nemá:",
+        [
+            "Očekávaná výše dividendy",
+            "Předpokládaná doba držby",
+            "Očekávaná doba výnosnosti",
+            "Kuponová sazba akcie"
+        ],
+        "d"
+    ],
+    [
+        "Na jednom trhu v jednom okamžiku může existovat:",
+        [
+            "Teoreticky tolik vnitřních hodnot, kolik je účastníků trhu",
+            "Pouze jedna vnitřní hodnota",
+            "Pouze jedna vnitřní hodnota, totožná s tržní cenou",
+            "Maximálně dvě vnitřní hodnoty – jedna kupní jedna prodejní"
+        ],
+        "a"
+    ],
+    [
+        "Majitel (kupující) prodejní opce je v pozici:",
+        [
+            "Short put",
+            "Long put",
+            "Long call",
+            "Short call"
+        ],
+        "b"
+    ],
+    [
+        "Osoba, která je v pozici kupující FLOOR:",
+        [
+            "Chrání své pohledávky proti růstu úrokových sazeb",
+            "Chrání své pohledávky proti poklesu úrokových sazeb",
+            "Chrání své závazky proti poklesu úrokových sazeb",
+            "Chrání své závazky proti růstu úrokových sazeb"
+        ],
+        "a"
+    ],
+    [
+        "Pro kontrakty typu forward platí:",
+        [
+            "Obchodují se na burzách",
+            "Můžeme některé typy forwardů uzavřít např. v bance",
+            "Obchodují se v lotech",
+            "Lze kdykoliv uzavřít svojí pozici a tím zrušit povinnost vypořádat kontrakt"
+        ],
+        "b"
+    ],
+    [
+        "Pro strukturované vklady v bankách platí:",
+        [
+            "Nejsou v ČR zatím distribuovány",
+            "Výše jejich úročení je odvislá od různého podkladového aktiva",
+            "Nejsou pojištěny jako standardní bankovní vklady",
+            "Jsou obvykle bez splatnosti"
+        ],
+        "b"
+    ],
+    [
+        "Tvorba nových druhů cenných papírů či nahrazování standardních úvěrových produktů emisemi cenných papírů se označuje:",
+        [
+            "Spekulace",
+            "Institucionalizace",
+            "Sekuritizace",
+            "Globalizace"
+        ],
+        "c"
+    ],
+    [
+        "Tzv. velké finanční instituce realizuje většinu finančních operací:",
+        [
+            "Na sekundárních a terciálních trzích",
+            "Na primárních i sekundárních trzích",
+            "Pouze na sekundárních trzích",
+            "Pouze na primárních trzích"
+        ],
+        "b"
+    ],
+    [
+        "Proces integrace finančních trhů lze charakterizovat jako stále těsnější:",
+        [
+            "Cenové propojování jejich jednotlivých segmentů, které nejsou ve vzájemné rovnováze",
+            "Objemové propojování jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze",
+            "Objemové propojování jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze",
+            "Cenové propojení jejich jednotlivých segmentů, které je udržuje ve vzájemné rovnováze"
+        ],
+        "a"
+    ],
+    [
+        "Cenný papír, který neexistuje ve fyzické podobě, se označuje:",
+        [
+            "Elektronovaný",
+            "Zaknihovaný",
+            "Listinný",
+            "Virtuální"
+        ],
+        "b"
+    ],
+    [
+        "Mezi finanční investice nepatří:",
+        [
+            "Poskytování úvěru",
+            "Peněžní vklady",
+            "Nákup akcií a obligací",
+            "Nákup uměleckých sbírek"
+        ],
+        "a"
+    ],
+    [
+        "Burza není:",
+        [
+            "Organizovaným trhem",
+            "Neorganizovaným OTC trhem",
+            "Sekundárním trhem",
+            "Primárním trhem"
+        ],
+        "b"
+    ],
+    [
+        "Podnik má 2 stroje a nakoupil 3. stroj, což rozšířilo jeho výrobní kapacitu. Podnik tím realizoval:",
+        [
+            "Hrubou investici",
+            "Čistou investici",
+            "Reprodukční investici",
+            "Ani jedno z uvedených"
+        ],
+        "a"
+    ],
+    [
+        "Sleva z pojistného za bezeškodní průběh se označuje:",
+        [
+            "Malus",
+            "Diskont",
+            "Bonus",
+            "Rating"
+        ],
+        "c"
+    ],
+    [
+        "Fondy, které reinvestují získané příjmy dle své investiční strategie, se označují:",
+        [
+            "Fondy vyvážené",
+            "Fondy důchodové",
+            "Fondy růstové",
+            "Fondy stabilní"
+        ],
+        "c"
+    ],
+    [
+        "Expanzivní monetární politika realizována centrální bankou:",
+        [
+            "Je spojena se snížením úvěrové kapacity bank",
+            "Je spojena s poklesem úrokových sazeb",
+            "Je spojena s omezením peněžní zásoby v ekonomice",
+            "Je spojena s růstem korporátních daní"
+        ],
+        "b"
+    ],
+    [
+        "Akcept směnky je charakteristický pro:",
+        [
+            "Směnku cizí",
+            "Solosměnku",
+            "Bianco směnku",
+            "Směnku vlastní"
+        ],
+        "d"
+    ],
+    [
+        "Doporučený investiční horizont pro dluhopisové investice je obvykle:",
+        [
+            "Nad 15 let",
+            "Do 1 roku",
+            "Nad 10 let",
+            "3-5 let"
+        ],
+        "d"
+    ],
+    [
+        "S růstem doby do splatnosti obligace:",
+        [
+            "Nemění se její úrokové riziko",
+            "Nelze nikdy určit u diskontních obligace",
+            "Klesá její úrokové riziko",
+            "Roste její úrokové riziko"
+        ],
+        "d"
+    ],
+    [
+        "Výměna úrokových plateb v různým měnách je typická pro:",
+        [
+            "Devizový swap",
+            "Platební swap",
+            "Úrokový swap",
+            "Měnový swap"
+        ],
+        "c"
+    ],
+    [
+        "Forward jsou:",
+        [
+            "Smluvní spotové obchody",
+            "Standartní burzovní spotové obchody",
+            "Standartní burzovní termínové obchody",
+            "Smluvní termínové obchody"
+        ],
+        "d"
+    ],
+    [
+        "Turbocertifikáty jsou založeny na obdobném principu jako:",
+        [
+            "Swapy",
+            "Opce",
+            "Futures",
+            "Rorwardy"
+        ],
+        "b"
+    ],
+    [
+        "Pro investiční životní pojištění platí:",
+        [
+            "Umožnuje pojistníkovi ovlivnit investiční strategii",
+            "Nabízí investiční společnosti",
+            "Zhodnocení je závislé na technické úrokové míře",
+            "Neslouží ke krytí rizika dožití"
+        ],
+        "a"
+    ],
+    [
+        "Nejrozšířenějším druhem fondů kolektivního investování určených pro veřejnost jsou:",
+        [
+            "Venture fondy",
+            "Fondy uzavřeného typu",
+            "Fondy otevřeného typu",
+            "Investiční kluby"
+        ],
+        "c"
+    ],
+    [
+        "Dobrovolná sdružení institucí finančního trhu stejného zaměření, která vznikla pro zvýšení vyjednávací síly daného odvětví (např. s regulátorem) se označují:",
+        [
+            "Korporace",
+            "Nadace",
+            "Asociace",
+            "Fondy"
+        ],
+        "c"
+    ],
+    [
+        "Speciálními druhy úsporných vkladů nejsou:",
+        [
+            "Majetková spoření",
+            "Účelová spoření",
+            "Kreditní karty",
+            "Spoření spojená se životním pojištěním"
+        ],
+        "c"
+    ],
+    [
+        "Pro peněžní trh není obvykle charakteristická:",
+        [
+            "Nízká míra rizika",
+            "Krátkodobá splatnost cenných papírů",
+            "Nízká míra výnosu",
+            "Nízká míra likvidity"
+        ],
+        "d"
+    ],
+    [
+        "Která sazba bude za standartních podmínek nejnižší:",
+        [
+            "Úroková sazba spotřebitelského úvěru",
+            "Úroková sazba kontokorentního úvěru",
+            "Úroková sazba americká hypotéky",
+            "Úroková sazba standartního hypotečního úvěru"
+        ],
+        "d"
+    ],
+    [
+        "Možnost ovlivňovat finanční systém k dosahování makro cílů je:",
+        [
+            "Depozitní funkce fin systému",
+            "Platební funkce fin systému",
+            "Regulační funkce fin systému",
+            "Likvidní funkce fin systému"
+        ],
+        "c"
+    ],
+    [
+        "Keynesova teorie preference likvidity pracuje s následujícími dvěma aktivy:",
+        [
+            "Dlouhodobé fixní úročené obligace a peníze",
+            "Akcie a peníze",
+            "Úvěry a peníze",
+            "Variabilní úročené obligace a peníze"
+        ],
+        "a"
+    ],
+    [
+        "Mezi nepřímé nástroje používané centrální bankou nepatří:",
+        [
+            "Operace na volném trhu",
+            "Povinné vklady",
+            "Povinné minimální rezervy",
+            "Diskontní nástroje"
+        ],
+        "b"
+    ],
+    [
+        "Nevýhodou kontokorentního úvěru bývá:",
+        [
+            "Vyšší úroková sazba",
+            "Dlouhá doba splatnosti",
+            "Neexistence v ČR",
+            "Rychlá dostupnost fin. prostředků"
+        ],
+        "a"
+    ],
+    [
+        "S růstem úrokových sazeb dochází:",
+        [
+            "K růstu akciových kurzů z důvodu růstu kurzových dluhopisů",
+            "K poklesu akciových kurzů z důvodu zvyšování nákladů firem na externí kapitál",
+            "K růstu akciových kurzů z důvodu vyšších zisků akciových společností",
+            "K poklesu akciových kurzů z důvodu oslabování tuzemské měny vůči zahraniční"
+        ],
+        "b"
+    ],
+    [
+        "Výnosem z dluhopisu nikdy není:",
+        [
+            "Rozdíl mezi nominální hodnotou dluhopisu a jeho nákupní cenou",
+            "Diskont",
+            "Dividenda",
+            "Kupon"
+        ],
+        "c"
+    ],
+    [
+        "Mezi úrokový swap, který se v praxi nevyskytuje, patří:",
+        [
+            "Vyskytují se běžně všechny uvedené možnosti",
+            "Výměna dvou variabilních úrokových sazeb",
+            "Výměna dvou fixních úrokových sazeb",
+            "Výměna fixní a variabilní sazby"
+        ],
+        "b"
+    ],
+    [
+        "Při obchodování s opcemi za jinak stejných podmínek:",
+        [
+            "Americké opce levnější než opce francouzské",
+            "Americké opce dražší než německé opce",
+            "Americké opce levnější než opce německé",
+            "Americké opce dražší než opce evropské"
+        ],
+        "d"
+    ],
+    [
+        "Cenné papíry se emitují na:",
+        [
+            "Sekundárním trhu",
+            "Primárním trhu",
+            "Kvartálním trhu",
+            "Terciálním trhu"
+        ],
+        "b"
+    ],
+    [
+        "Směnárna v bance je:",
+        [
+            "Vkladovým trhem",
+            "Úvěrovým trhem",
+            "Valutovým trhem",
+            "Devizovým trhem"
+        ],
+        "c"
+    ],
+    [
+        "Objemy vkladů veřejnosti v družstevních záložkách (kampeličkách) jsou:",
+        [
+            "Přibližně stejné jako u komerčních bank",
+            "Vyšší než u KB",
+            "Nižší u vkladových produktů, vyšší u běžných účtů",
+            "Nižší než u KB"
+        ],
+        "d"
+    ],
+    [
+        "Záporná reálná úroková sazba:",
+        [
+            "Je v ČR zakázaná",
+            "Se často vyskytuje u úvěrů",
+            "Je výhodná pro střadatele",
+            "Se může vyskytovat u spořících a běžných účtů"
+        ],
+        "d"
+    ],
+    [
+        "Na diskontním principu se z pravidla obchodují podílové listy:",
+        [
+            "Zajištěných investičních fondů",
+            "Investičních fondů",
+            "Otevřených podílových fondů",
+            "Uzavřených podílových fondů"
+        ],
+        "d"
+    ],
+    [
+        "Do státních pokladničních poukázek, krátkodobých korporátních a státních dluhopisů nebo bankovních vkladů investují zejména:",
+        [
+            "Akciové fondy",
+            "Fondy fondů",
+            "Fondy peněžního trhu",
+            "Smíšené fondy"
+        ],
+        "c"
+    ],
+    [
+        "Mezi nepřímé nástroje používané centrální bankou nepatří:",
+        [
+            "Povinné minimální rezervy",
+            "Operace na volném trhu",
+            "Diskontní nástroje",
+            "Úrokové limity"
+        ],
+        "d"
+    ],
+    [
+        "Kapitálový výnos:",
+        [
+            "Může být pouze záporný",
+            "Může být pouze kladný",
+            "Může být kladný i záporný",
+            "Je vždy shodný s běžným výnosem"
+        ],
+        "c"
+    ],
+    [
+        "Úvěr, který je zajištěn zástavou práva nebo movité věci, se označuje:",
+        [
+            "Kontokorentní úvěr",
+            "Směnečný úvěr",
+            "Lombardní úvěr",
+            "Hypoteční úvěr"
+        ],
+        "c"
+    ],
+    [
+        "Technická úroková míra se vyskytuje v případě:",
+        [
+            "Kapitálového živ. pojištění",
+            "Investičního živ. pojištění",
+            "Cestovního pojištění",
+            "Povinného ručení"
+        ],
+        "b"
+    ],
+    [
+        "Výnosem státních pokladničních poukázek je pro investora:",
+        [
+            "Diskont",
+            "Dividenda",
+            "Pravidelná měsíční kuponová platba",
+            "Pravidelný měsíční úrok"
+        ],
+        "a"
+    ],
+    [
+        "Hlavní důvod pro obecnou vyšší rizikovost akcií oproti dluhopisům je následující:",
+        [
+            "Jedná se pouze o psychickou záležitost, logické zdůvodnění neexistuje",
+            "Příjmy z akcií jsou dopředu mnohem méně jisté než u dluhopisů",
+            "Výnosy z akcií jsou zdaňovány a výnosy z obligací nikoliv",
+            "Akcie nejsou tolik regulovány jako obligace"
+        ],
+        "b"
+    ],
+    [
+        "Na trhu se prakticky nevyskytují:",
+        [
+            "Konzoly",
+            "Kuponové obligace s fixním kuponem",
+            "Diskontované obligace",
+            "Kuponové obligace s variabilním kuponem"
+        ],
+        "a"
+    ],
+    [
+        "Evropské opce:",
+        [
+            "Se obchodují pouze v Eurozoně",
+            "Mohou být uplatněny pouze ve splatnosti",
+            "Jsou účelové opce",
+            "Mohou být uplatněny kdykoliv v průběhu životnosti"
+        ],
+        "d"
+    ],
+    [
+        "Kupující forwardového kontraktu je v:",
+        [
+            "Short pozici",
+            "Long pozici",
+            "Call pozici",
+            "Put pozici"
+        ],
+        "b"
+    ],
+    [
+        "Investiční certifikát je možno koupit:",
+        [
+            "Na burze i mimoburzovním trhu",
+            "Pouze u ČNB",
+            "Pouze na burze",
+            "Pouze na mimoburzovním trhu"
+        ],
+        "a"
+    ]
+]

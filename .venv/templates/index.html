@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testovací systém</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+<div class="question">
+    <h1>Testovací systém</h1>
+    <a href="{{ url_for('start_test') }}"><button>Spustit test</button></a>
+    <a href="{{ url_for('show_questions') }}"><button>Zobrazit otázky s odpověďmi</button></a>
+</div>
+</body>
+</html>

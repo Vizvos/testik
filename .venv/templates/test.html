@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="question">
+    <h1>Test</h1>
+    <div id="question-container">
+        <p id="question-text">{{ question.text }}</p>
+        <form id="answer-form">
+            <label><input type="radio" name="answer" value="a"> <span id="option_a">{{ question.option_a }}</span></label><br>
+            <label><input type="radio" name="answer" value="b"> <span id="option_b">{{ question.option_b }}</span></label><br>
+            <label><input type="radio" name="answer" value="c"> <span id="option_c">{{ question.option_c }}</span></label><br>
+            <label><input type="radio" name="answer" value="d"> <span id="option_d">{{ question.option_d }}</span></label><br>
+            <button class= "button-lockin" type="button" onclick="checkAnswer()">Potvrdit odpověď</button>
+            <button class= "button-next" type="button" onclick="nextQuestion()">Další</button>
+        </form>
+        <p id="result"></p>
+    </div>
+</div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otázky s odpověďmi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="question">
+    <h1>Otázky s odpověďmi</h1>
+    <ul>
+        {% for question in questions %}
+        <li>
+            <p>{{ question.text }}</p>
+            <ul>
+                <li>{{ question.option_a }}</li>
+                <li>{{ question.option_b }}</li>
+                <li>{{ question.option_c }}</li>
+                <li>{{ question.option_d }}</li>
+            </ul>
+            <p>Správná odpověď: {{ question.correct_answer }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('index') }}"><button>Zpět na hlavní stránku</button></a>
+</div>
+</body>
+</html>
